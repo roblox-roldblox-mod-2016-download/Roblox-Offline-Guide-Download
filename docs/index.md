@@ -75,7 +75,7 @@ RolDBlox 2016 Mod is a comprehensive offline activation system that brings back 
 ### Support
 - [FAQ](faq.html) - Frequently asked questions
 - [Troubleshooting](troubleshooting.html) - Common issues and fixes
-- [Community Support](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/discussions) - Get help from users
+- [Community Support](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/discussions) - Get help from users
 
 ## 🎯 Perfect For
 
@@ -108,9 +108,9 @@ Ready to experience 2016 Roblox again?
 
 Join our growing community of retro gaming enthusiasts:
 
-- [GitHub Discussions](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/discussions) - Community chat
-- [Issue Tracker](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/issues) - Bug reports and features
-- [Contributing Guide](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/blob/main/CONTRIBUTING.md) - Help improve the project
+- [GitHub Discussions](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/discussions) - Community chat
+- [Issue Tracker](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/issues) - Bug reports and features
+- [Contributing Guide](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/blob/main/CONTRIBUTING.md) - Help improve the project
 
 ## 📊 Project Stats
 

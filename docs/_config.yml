@@ -3,7 +3,7 @@
 # Site settings
 title: "RolDBlox 2016 Mod - Offline Roblox Legacy Engine"
 description: "Unlock the classic 2016 Roblox experience with offline activation. Complete legacy engine features, classic UI themes, and private server hosting without internet connection."
-baseurl: ""
+baseurl: "/Roblox-Offline-Guide-Download"
 url: "https://roblox-roldblox-mod-2016-download.github.io"
 
 # SEO settings
@@ -16,7 +16,7 @@ twitter:
 social:
   name: RolDBlox 2016 Mod
   links:
-    - https://github.com/roblox-roldblox-mod-2016-download
+    - https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download
 
 # Theme and plugins
 theme: minima

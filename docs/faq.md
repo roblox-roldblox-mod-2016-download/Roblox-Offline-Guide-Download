@@ -203,8 +203,8 @@ Check if:
 
 - 📖 **[Installation Guide](installation.html)** - Detailed setup instructions
 - 🔧 **[Troubleshooting](troubleshooting.html)** - Fix common issues
-- 💬 **[Community Discussions](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/discussions)** - Ask questions
-- 🐛 **[Issue Tracker](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/issues)** - Report bugs
+- 💬 **[Community Discussions](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/discussions)** - Ask questions
+- 🐛 **[Issue Tracker](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/issues)** - Report bugs
 
 ### How can I contribute to the project?
 
@@ -224,4 +224,4 @@ Yes! Join our growing community:
 
 ---
 
-**Still have questions?** Feel free to ask in our [Community Discussions](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/discussions)! 
+**Still have questions?** Feel free to ask in our [Community Discussions](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/discussions)! 

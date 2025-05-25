@@ -178,8 +178,8 @@ If you encounter issues:
 
 1. **Check our [FAQ](faq.html)** for common solutions
 2. **Visit [Troubleshooting](troubleshooting.html)** for detailed fixes
-3. **Report issues** on [GitHub](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/issues)
-4. **Ask the community** in [Discussions](https://github.com/roblox-roldblox-mod-2016-download/roblox-roldblox-mod-2016-download/discussions)
+3. **Report issues** on [GitHub](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/issues)
+4. **Ask the community** in [Discussions](https://github.com/roblox-roldblox-mod-2016-download/Roblox-Offline-Guide-Download/discussions)
 
 ## 🔄 Updating
 
