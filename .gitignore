@@ -1,0 +1,135 @@
+# RolDBlox 2016 Mod - Git Ignore File
+
+# Internal development files (hidden from users)
+.internal/
+UNIVERSAL_SEO_TOOLKIT.md
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Windows
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.atom/
+.brackets.json
+
+# Build and Distribution
+build/
+dist/
+out/
+target/
+bin/
+obj/
+*.exe
+*.msi
+*.zip
+*.rar
+*.7z
+
+# Temporary Files
+temp/
+tmp/
+cache/
+*.cache
+
+# User-specific Files
+config.local.*
+settings.local.*
+*.user
+*.suo
+*.userprefs
+
+# Logs and Debugging
+logs/
+*.log
+debug.log
+error.log
+crash.log
+
+# Security and Sensitive Data
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+.env
+.env.local
+.env.production
+
+# Documentation Build
+docs/_site/
+docs/.jekyll-cache/
+docs/.sass-cache/
+
+# Package Managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# C/C++
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Backup Files
+*.backup
+*.bak
+*.old
+*.orig
+
+# Test Files
+test-results/
+coverage/
+*.test
+*.spec
+
+# Local Development
+local/
+dev/
+development/ 

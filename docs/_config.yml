@@ -1,0 +1,98 @@
+# RolDBlox 2016 Mod - GitHub Pages Configuration
+
+# Site settings
+title: "RolDBlox 2016 Mod - Offline Roblox Legacy Engine"
+description: "Unlock the classic 2016 Roblox experience with offline activation. Complete legacy engine features, classic UI themes, and private server hosting without internet connection."
+baseurl: ""
+url: "https://roblox-roldblox-mod-2016-download.github.io"
+
+# SEO settings
+author: "RolDBlox Development Team"
+twitter:
+  username: roldblox_mod
+  card: summary_large_image
+
+# Social media
+social:
+  name: RolDBlox 2016 Mod
+  links:
+    - https://github.com/roblox-roldblox-mod-2016-download
+
+# Theme and plugins
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+# Google Analytics (replace with your tracking ID)
+google_analytics: UA-XXXXXXXXX-X
+
+# Site navigation
+header_pages:
+  - installation.md
+  - gameplay.md
+  - development.md
+  - faq.md
+  - troubleshooting.md
+
+# Collections
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "RolDBlox Team"
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "page"
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Include files
+include:
+  - _pages
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# SEO optimization
+lang: en_US
+timezone: UTC
+
+# Logo and favicon
+logo: /assets/images/logo.png
+favicon: /assets/images/favicon.ico
+
+# Social preview image
+image: /assets/images/social-preview.png
+
+# Keywords for SEO
+keywords: "roblox mod, roldblox 2016, offline gaming, legacy engine, game preservation, retro gaming, private server, offline activation, classic roblox, 2016 roblox, game engine, lua scripting, offline multiplayer, gaming nostalgia, roblox studio" 
